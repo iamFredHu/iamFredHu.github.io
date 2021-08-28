@@ -2,16 +2,16 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       Recruitment
+  en      : &EN       Mumble
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
   en-AU   : *EN
-  zh-Hans : &ZH_HANS  秋招
+  zh-Hans : &ZH_HANS  碎碎念
   zh      : *ZH_HANS
   zh-CN   : *ZH_HANS
   zh-SG   : *ZH_HANS
-  zh-Hant : &ZH_HANT  招聘
+  zh-Hant : &ZH_HANT  
   zh-TW   : *ZH_HANT
   zh-HK   : *ZH_HANT
   ko      : &KO       
@@ -23,8 +23,10 @@ titles:
   fr-FR   : *FR
   fr-LU   : *FR
   # @end locale config
-key: page-about
+key: page-mumble
 ---
+
+![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg
 
 TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
 
