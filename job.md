@@ -26,23 +26,13 @@ titles:
 key: page-job
 ---
 
-# 秋招
+# 秋招面经复习笔记收集
+
 > 秋招打基础，春招___
 
-## 海信集团
-8.29 笔试
 
-## 招商局金融科技有限公司
 
-## 中金所技术公司
+## HTML
 
-## 中国平安
+[HTML面经1](https://github.com/CavsZhouyou/Front-End-Interview-Notebook/blob/master/Html/Html.md)
 
-## 招商银行
-
-## 招银网络科技
-8.29 在线素质测评
-
-## 中国农业银行研发中心
-
-## 中国工商银行
